@@ -4,6 +4,7 @@ This project demonstrates how to use SQL to analyze data from a flight and hotel
 ## Database and Tools
 * MySQL
 * MySQL Workbench
+
 Schema- Booking Database
 
 ![Screenshot 2023-11-18 195031](https://github.com/Aanchaljain04/SQL_booking_insights/assets/47006604/fb0e5b42-ba2c-4509-a592-f92def0b2b66)
